@@ -1,5 +1,5 @@
 # Rephraser-NAT
-Official implementation for the AAAI 2023 paper [Rephrasing the Reference for Non-Autoregressive Machine Translation](https://arxiv.org/abs/).
+Official implementation for the AAAI 2023 paper [Rephrasing the Reference for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2211.16863.pdf).
 We are still preparing the official code and will try to release it before the conference.
 
 
